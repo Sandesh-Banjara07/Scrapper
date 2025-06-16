@@ -42,3 +42,12 @@ def scrap_book(url):
 
 scrap_book(url)
 
+#initialize(git init)
+#  add(git add .), 
+# check status(git status), 
+# finish(gir commit -m "Finish Project")
+
+#if you change the code
+#git add
+#git commit -m "Your message"
+#git push
